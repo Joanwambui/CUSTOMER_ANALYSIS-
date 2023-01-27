@@ -7,6 +7,6 @@ RFM analysis is:
 To use RFM analysis for our dataset ,window functions in a local temp table queries was the best for ease of use.
 ![](Images/Screenshot%20(219).png)
 ![](Images/Screenshot%20(220).png)
-I went a step further and prepared dashboards for visualizations to better understand the data.The link to tableau : customer_analysis_dashboard | Tableau Public
+I went a step further and prepared dashboards for visualizations to better understand the data.The link to tableau : https://public.tableau.com/app/profile/joan7180/viz/customer_analysis_dashboard/sales_dash2?publish=yes
 ![](Images/Screenshot%20(222).png)
 ![](Images/Screenshot%20(223).png)
